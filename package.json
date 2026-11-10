@@ -1,0 +1,15 @@
+{
+  "name": "expense-analyser",
+  "version": "1.0.0",
+  "description": "Airtribe Node.js Expense Analyser Practice Assignment",
+  "main": "analyser.js",
+  "scripts": {
+    "start": "node analyser.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
